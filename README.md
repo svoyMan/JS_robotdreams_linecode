@@ -60,7 +60,8 @@ node random.js
 
 ## Демонстрація роботи програми
 ### Скріншоти:
-1. У браузері: 
-2. У Node.js:
+1. У браузері: https://i.imgur.com/0WMAwes.png
+2. У Node.js: https://i.imgur.com/FJYk1qf.png
 
-### Відео: 
+### Відео:
+https://youtu.be/4NgWI1-iosg
